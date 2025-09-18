@@ -1,0 +1,13 @@
+[2025-09-16 15:41:15] [MALWARE] 🦠 MALWARE DETECTED: /home/rudra/TEST1/wildfire-test-pe-file.exe - Malicious detections: 45
+[2025-09-16 15:41:15] [DELETED] 🗑️ DELETED: Malicious file removed - /home/rudra/TEST1/wildfire-test-pe-file.exe
+[2025-09-16 15:42:13] [DDOS] 🚨 DDoS Attack from 3.5.30.211 - Rate: 128 packets/sec
+[2025-09-16 15:46:20] [NEW_FILE] 📁 NEW FILE: /home/rudra/TEST1/Node.class - Not in VirusTotal database (uploading for analysis)
+[2025-09-16 15:48:10] [DDOS] 🚨 DDoS Attack from 142.251.42.14 - Rate: 124 packets/sec
+[2025-09-16 15:48:11] [DDOS] 🚨 DDoS Attack from 142.251.42.227 - Rate: 111 packets/sec
+[2025-09-16 15:48:12] [DDOS] 🚨 DDoS Attack from 142.251.42.227 - Rate: 144 packets/sec
+[2025-09-16 15:48:18] [DDOS] 🚨 DDoS Attack from 142.251.42.227 - Rate: 111 packets/sec
+[2025-09-16 15:48:24] [DDOS] 🚨 DDoS Attack from 142.251.42.227 - Rate: 109 packets/sec
+[2025-09-16 15:48:26] [DDOS] 🚨 DDoS Attack from 142.251.42.227 - Rate: 180 packets/sec
+[2025-09-16 15:48:29] [DDOS] 🚨 DDoS Attack from 142.251.42.227 - Rate: 121 packets/sec
+[2025-09-16 16:01:23] [DDOS] 🚨 DDoS Attack from 151.101.1.91 - Rate: 585 packets/sec
+[2025-09-16 16:01:24] [DDOS] 🚨 DDoS Attack from 151.101.1.91 - Rate: 163 packets/sec
